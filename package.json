@@ -1,0 +1,24 @@
+{
+  "name": "coding-interview",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darksmile/coding-interview.git"
+  },
+  "author": "darksmile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darksmile/coding-interview/issues"
+  },
+  "homepage": "https://github.com/darksmile/coding-interview#readme",
+  "dependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-latest": "^6.16.0"
+  }
+}
